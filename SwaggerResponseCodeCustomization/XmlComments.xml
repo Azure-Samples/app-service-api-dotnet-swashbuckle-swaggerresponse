@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerResponseCodeCustomization</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerResponseCodeCustomization.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Returns the specified contact.
+            </summary>
+            <param name="id">The ID of the contact.</param>
+            <returns>A contact record with an HTTP 200, or null with an HTTP 404.</returns>
+            <response code="200">OK</response>
+            <response code="404">Not Found</response>
+        </member>
+    </members>
+</doc>
