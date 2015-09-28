@@ -1,8 +1,10 @@
----
-services: app-service\api
-platforms: dotnet
-author: bradygaster
----
-
-# Customizing Swashbuckle using SwaggerResponse Attributes
+# app-service-api-dotnet-swashbuckle-swaggerresponse
 Demonstration code showing how to use Swashbuckle 5.1.5's new SwaggerResponse attribute to support multiple HTTP Response Codes
+## Running this sample
+Coming soon...
+## Deploy this sample to Azure
+Coming soon...
+## About the code
+Coming soon...
+## More information
+Coming soon...
